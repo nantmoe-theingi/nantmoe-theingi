@@ -37,8 +37,8 @@ I'm a Full-Stack Developer based in New Zealand 🇳🇿, passionate about build
 
 ### 💼 Professional Experience
 
-**[Software Developer]**  
-*[Avanade Asia Pte Ltd] | [Apr, 2020] – [Jun, 2024] | [Singapore]*
+**Software Developer**  
+*Avanade Asia Pte Ltd | Apr, 2020 – Jun, 2024 | Singapore*
 *   Built end-to-end workflows for a high-volume tax-processing application using .NET Core, Angular, and Microsoft SQL Server, via Azure DevOps within an Agile team.
 *   Improved software quality and reduced defects during testing stages by implementing automated unit tests (xUnit, Jasmine), maintaining over 80% code coverage via SonarQube.
 *   Collaborated cross-functionally with developers, testers, and business stakeholders to clarify requirements, propose technical solutions, and deliver features.
