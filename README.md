@@ -4,7 +4,6 @@ I'm a Full-Stack Developer based in New Zealand 🇳🇿, passionate about build
 
 📫 **Reach me at:** [nantmoetheingi@gmail.com](mailto:nantmoetheingi@gmail.com)
 🔗 **LinkedIn:** [[Add Your LinkedIn URL here](https://linkedin.com/in/nantmoetheingi)]
-🌐 **Portfolio:** [Add Your Portfolio URL here - optional]
 
 ---
 
@@ -44,9 +43,6 @@ I'm a Full-Stack Developer based in New Zealand 🇳🇿, passionate about build
     *   Integrated the OpenWeatherMap API to fetch and display accurate meteorological data.
     *   Utilized Serverless Vercel Functions to securely manage API calls and backend logic.
     *   Designed a responsive and intuitive frontend user interface with Angular.
-
-#### 🏠 [Airbnb-NZ](https://github.com/nantmoe-theingi/airbnb-nz-dec) *(Update link if private/public)*
-*   Contributed to a local New Zealand property booking application, focusing on [add 1 sentence describing your contribution, e.g., UI implementation or API integration].
 
 ---
 
