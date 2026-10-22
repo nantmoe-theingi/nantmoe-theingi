@@ -26,24 +26,4 @@ I'm a Full-Stack Developer based in New Zealand 🇳🇿, passionate about build
 
 ---
 
-### 🚀 Featured Projects
-
-#### ✈️ [WanderKiwi](https://github.com/nantmoe-theingi/wanderkiwi)
-*A modern travel planner designed to help users organize their trips effortlessly.*
-*   **Tech Stack:** C#, .NET 8, Angular, PostgreSQL, Docker
-*   **Highlights:** 
-    *   Engineered a containerized full-stack architecture using Docker.
-    *   Built a robust relational database with PostgreSQL to manage user itineraries and travel data.
-    *   Deployed and hosted the application seamlessly on Railway.
-
-#### 🌤️ [ng-breeze](https://github.com/nantmoe-theingi/ng-breeze)
-*A sleek, modern weather dashboard providing real-time forecasting.*
-*   **Tech Stack:** Angular, TypeScript, Serverless Vercel Functions
-*   **Highlights:** 
-    *   Integrated the OpenWeatherMap API to fetch and display accurate meteorological data.
-    *   Utilized Serverless Vercel Functions to securely manage API calls and backend logic.
-    *   Designed a responsive and intuitive frontend user interface with Angular.
-
----
-
 ⭐️ *Thanks for stopping by! Feel free to check out my repositories below.*
