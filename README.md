@@ -3,7 +3,7 @@
 I'm a Full-Stack Developer based in New Zealand 🇳🇿, passionate about building scalable, modern web applications. I enjoy creating seamless user experiences and backend architectures. I am currently open to new software engineering opportunities!
 
 📫 **Reach me at:** [nantmoetheingi@gmail.com](mailto:nantmoetheingi@gmail.com)
-🔗 **LinkedIn:** [[Add Your LinkedIn URL here](https://linkedin.com/in/nantmoetheingi)]
+🔗 **LinkedIn:** [[in/nantmoetheingi](https://linkedin.com/in/nantmoetheingi)]
 
 ---
 
